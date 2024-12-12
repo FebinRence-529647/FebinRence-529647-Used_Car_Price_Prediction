@@ -159,9 +159,8 @@ This project aims to build a machine learning model to predict the prices of use
 
 ---
 
-## **Contact**
+**License**
 
-For any questions or collaboration, reach out to:
+This project is open-source and available under the MIT License.
 
-- **Name:** Febin
-- **Email:** [[febinrence@gmail.com](mailto:your_email@example.com)]
+
